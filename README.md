@@ -2,4 +2,4 @@
 
 modificando remotamente pelo github.
 
-modificando localmente pelo vscode >.< 
+modificando localmente pelo vscode >.<
